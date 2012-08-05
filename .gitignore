@@ -1,5 +1,5 @@
 *.swp
 Makefile
 *.gz
-Syntax-Keyword-Gather-*
+Syntax-Feature-Gather-*
 .build
