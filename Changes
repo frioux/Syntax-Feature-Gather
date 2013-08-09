@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+   - Add missing dep (Sub::Exporter)
    - Put MetaYAML back in dist
 
 1.002000  2012-08-04 22:24:29 America/Chicago
