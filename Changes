@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+1.002001  2013-08-08 19:50:07 CST6CDT
    - Add missing dep (Sub::Exporter)
    - Abandon RT
    - Put MetaYAML back in dist
